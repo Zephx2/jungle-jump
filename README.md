@@ -1,7 +1,9 @@
- 
+Move right with D or right arrow key
+Move left with A or right arrow key
+Jump with space bar (press B for mobile) 
+place crates with ENTER (press A for mobile)
+
+Get to the Chest to move on to the next level
 
 
-> Open this page at [https://zephx2.github.io/jungle-jump/](https://zephx2.github.io/jungle-jump/)
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
